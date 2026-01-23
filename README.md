@@ -15,4 +15,6 @@
     <a href="https://www.linkedin.com/in/joaopedrofusco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </div>
 
+ ![snake gif](https://github.com/joaopfusco/joaopfusco/blob/output/github-snake-dark.svg)
+
 </div>
